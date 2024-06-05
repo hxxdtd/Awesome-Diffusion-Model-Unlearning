@@ -21,6 +21,7 @@ A collection of academic articles, resources, and datasets on the subject of **m
 | [One-Dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications](https://arxiv.org/abs/2312.16145) | 2024 | CVPR 2024 | [GitHub](https://github.com/Con6924/SPM) |
 | [ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning](https://arxiv.org/abs/2405.19237) | 2024 | arXiv |  |
 | [Pruning for Robust Concept Erasing in Diffusion Models](https://arxiv.org/abs/2405.16534) | 2024 | arXiv |  |
+| [R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model](https://arxiv.org/abs/2405.16341) | 2024 | arXiv | |
 | [Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234) | 2024 | arXiv | [GitHub](https://github.com/OPTML-Group/AdvUnlearn) |
 | [Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient](https://arxiv.org/abs/2405.15304) | 2024 | arXiv |  |
 | [SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666) | 2024 | arXiv |  |
