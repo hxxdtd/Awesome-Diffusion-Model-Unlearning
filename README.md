@@ -22,11 +22,11 @@ A collection of academic articles, resources, and datasets on the subject of **m
 | [Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers](https://arxiv.org/abs/2311.17717) | 2023 | ECCV 2024 | [GitHub](https://github.com/jasper0314-huang/Receler) |
 | [MACE: Mass Concept Erasure in Diffusion Models](https://arxiv.org/abs/2403.06135) | 2024 | CVPR 2024 | [GitHub](https://github.com/Shilin-LU/MACE) |
 | [One-Dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications](https://arxiv.org/abs/2312.16145) | 2024 | CVPR 2024 | [GitHub](https://github.com/Con6924/SPM) |
+| [SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666) | 2024 | ACM CCS 2024 | [GitHub](https://github.com/LetterLiGo/SafeGen_CCS2024) |
 | [ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning](https://arxiv.org/abs/2405.19237) | 2024 | arXiv |  |
 | [Pruning for Robust Concept Erasing in Diffusion Models](https://arxiv.org/abs/2405.16534) | 2024 | arXiv |  |
 | [Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234) | 2024 | arXiv | [GitHub](https://github.com/OPTML-Group/AdvUnlearn) |
 | [Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient](https://arxiv.org/abs/2405.15304) | 2024 | arXiv |  |
-| [SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666) | 2024 | ACM CCS 2024 | [GitHub](https://github.com/LetterLiGo/SafeGen_CCS2024) |
 | [Robust Concept Erasure Using Task Vectors](https://arxiv.org/abs/2404.03631) | 2024 | arXiv |  |
 | [Separable Multi-Concept Erasure from Diffusion Models](https://arxiv.org/abs/2402.05947) | 2024 | arXiv | [GitHub](https://github.com/Dlut-lab-zmn/SepCE4MU) |
 | [EraseDiff: Erasing Data Influence in Diffusion Models](https://arxiv.org/abs/2401.05779) | 2024 | arXiv | [GitHub](https://github.com/JingWu321/EraseDiff) |
