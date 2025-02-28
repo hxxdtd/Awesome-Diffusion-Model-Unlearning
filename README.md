@@ -17,6 +17,9 @@ A collection of academic articles, resources, and datasets on the subject of **m
 
 | Paper                                                        | Year | Venue     | Code                                                         |
 | :----------------------------------------------------------: | :--: | :-------: | :----------------------------------------------------------: |
+| [Fantastic Targets for Concept Erasure in Diffusion Models and Where To Find Them](https://arxiv.org/abs/2501.18950) | 2025 | ICLR 2025 | [GitHub](https://github.com/tuananhbui89/Adaptive-Guided-Erasure) |
+| [SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders](https://arxiv.org/abs/2501.18052) | 2025 | arXiv | [GitHub](https://github.com/cywinski/SAeUron) |
+| [Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation](https://arxiv.org/abs/2410.15618) | 2024 | NeurIPS 2024 | [GitHub](https://github.com/tuananhbui89/Erasing-Adversarial-Preservation) |
 | [Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models](https://arxiv.org/abs/2407.12383) | 2024 | ECCV 2024 | [GitHub](https://github.com/CharlesGong12/RECE) |
 | [R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model](https://arxiv.org/abs/2405.16341) | 2024 | ECCV 2024 | [GitHub](https://github.com/chkimmmmm/R.A.C.E.) |
 | [Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers](https://arxiv.org/abs/2311.17717) | 2023 | ECCV 2024 | [GitHub](https://github.com/jasper0314-huang/Receler) |
