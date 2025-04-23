@@ -17,6 +17,10 @@ A collection of academic articles, resources, and datasets on the subject of **m
 
 | Paper                                                        | Year | Venue     | Code                                                         |
 | :----------------------------------------------------------: | :--: | :-------: | :----------------------------------------------------------: |
+| [ACE: Anti-Editing Concept Erasure in Text-to-Image Models](https://arxiv.org/abs/2501.01633) | 2025 | CVPR 2025 | [GitHub](https://github.com/120L020904/ACE) |
+| [Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters](https://arxiv.org/abs/2412.06143) | 2025 | CVPR 2025 | [GitHub](https://github.com/WYuan1001/AdaVD) |
+| [STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models](https://arxiv.org/abs/2408.16807) | 2025 | CVPR 2025 | [GitHub](https://github.com/koushiksrivats/robust-concept-erasing) |
+| [Erasing Undesirable Influence in Diffusion Models](https://arxiv.org/abs/2401.05779) | 2025 | CVPR 2025 | [GitHub](https://github.com/JingWu321/EraseDiff) |
 | [Fantastic Targets for Concept Erasure in Diffusion Models and Where To Find Them](https://arxiv.org/abs/2501.18950) | 2025 | ICLR 2025 | [GitHub](https://github.com/tuananhbui89/Adaptive-Guided-Erasure) |
 | [SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders](https://arxiv.org/abs/2501.18052) | 2025 | arXiv | [GitHub](https://github.com/cywinski/SAeUron) |
 | [Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation](https://arxiv.org/abs/2410.15618) | 2024 | NeurIPS 2024 | [GitHub](https://github.com/tuananhbui89/Erasing-Adversarial-Preservation) |
@@ -45,15 +49,18 @@ A collection of academic articles, resources, and datasets on the subject of **m
 
 ## Concept Restoration
 
-|                            Paper                             | Year |   Venue   |                             Code                             |            Type            |
-| :----------------------------------------------------------: | :--: | :-------: | :----------------------------------------------------------: | :------------------------: |
-| [Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective](https://arxiv.org/abs/2404.19382) | 2024 |   arXiv   |           [GitHub](https://github.com/hxxdtd/PUND)           | black-box, embedding-level |
-| [Circumventing Concept Erasure Methods For Text-to-Image Generative Models](https://arxiv.org/abs/2308.01508) | 2023 | ICLR 2024 | [GitHub](https://github.com/NYU-DICE-Lab/circumventing-concept-erasure) | white-box, embedding-level |
-| [Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?](https://arxiv.org/abs/2310.10012) | 2023 | ICLR 2024 |     [GitHub](https://github.com/chiayi-hsu/Ring-A-Bell)      |  black-box, prompt-level   |
-| [To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now](https://arxiv.org/abs/2310.11868) | 2023 | ECCV 2024 | [GitHub](https://github.com/OPTML-Group/Diffusion-MU-Attack) |  white-box, prompt-level   |
+|                            Paper                             | Year |   Venue    |                             Code                             |            Type            |
+| :----------------------------------------------------------: | :--: | :--------: | :----------------------------------------------------------: | :------------------------: |
+| [Memories of Forgotten Concepts](https://arxiv.org/abs/2412.00782) | 2025 | CVPR 2025  | [GitHub](https://github.com/matanr/Memories_of_Forgotten_Concepts) |  white-box, latent-level   |
+| [DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization](https://arxiv.org/abs/2408.11071) | 2025 | NAACL 2025 |     [GitHub](https://github.com/CherryBlueberry/DiffZOO)     |  black-box, prompt-level   |
+| [Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective](https://arxiv.org/abs/2404.19382) | 2024 |   arXiv    |           [GitHub](https://github.com/hxxdtd/PUND)           | gray-box, embedding-level  |
+| [Circumventing Concept Erasure Methods For Text-to-Image Generative Models](https://arxiv.org/abs/2308.01508) | 2023 | ICLR 2024  | [GitHub](https://github.com/NYU-DICE-Lab/circumventing-concept-erasure) | white-box, embedding-level |
+| [Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?](https://arxiv.org/abs/2310.10012) | 2023 | ICLR 2024  |     [GitHub](https://github.com/chiayi-hsu/Ring-A-Bell)      |  black-box, prompt-level   |
+| [To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now](https://arxiv.org/abs/2310.11868) | 2023 | ECCV 2024  | [GitHub](https://github.com/OPTML-Group/Diffusion-MU-Attack) |  white-box, prompt-level   |
 
 ## Benchmark
 
-|                            Paper                             | Year | Venue |                          Code                          |
-| :----------------------------------------------------------: | :--: | :---: | :----------------------------------------------------: |
-| [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846) | 2024 | arXiv | [GitHub](https://github.com/OPTML-Group/UnlearnCanvas) |
+|                            Paper                             | Year |    Venue     |                          Code                          |
+| :----------------------------------------------------------: | :--: | :----------: | :----------------------------------------------------: |
+| [Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models](https://arxiv.org/abs/2406.14855) | 2025 |  CVPR 2025   |     [GitHub](https://github.com/Artanisax/Six-CD)      |
+| [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846) | 2024 | NeurIPS 2024 | [GitHub](https://github.com/OPTML-Group/UnlearnCanvas) |
