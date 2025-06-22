@@ -17,12 +17,16 @@ A collection of academic articles, resources, and datasets on the subject of **m
 
 | Paper                                                        | Year | Venue     | Code                                                         |
 | :----------------------------------------------------------: | :--: | :-------: | :----------------------------------------------------------: |
+| [Minimalist Concept Erasure in Generative Models](https://openreview.net/pdf?id=oBCw6PZ0fX) | 2025 | ICML 2025 |  |
+| [EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers](https://arxiv.org/abs/2412.20413) | 2025 | ICML 2025 | [GitHub](https://github.com/tomguluson92/EraseAnything) |
+| [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework](https://arxiv.org/abs/2505.11131) | 2025 | ICML 2025 | [GitHub](https://github.com/Ferry-Li/Co-Erasing) |
+| [Adaptive Median Smoothing: Adversarial Defense for Unlearned Text-to-Image Diffusion Models at Inference Time](https://openreview.net/pdf?id=PdBEggnDIl) | 2025 | ICML 2025 |  |
+| [SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders](https://arxiv.org/abs/2501.18052) | 2025 | ICML 2025 | [GitHub](https://github.com/cywinski/SAeUron) |
 | [ACE: Anti-Editing Concept Erasure in Text-to-Image Models](https://arxiv.org/abs/2501.01633) | 2025 | CVPR 2025 | [GitHub](https://github.com/120L020904/ACE) |
 | [Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters](https://arxiv.org/abs/2412.06143) | 2025 | CVPR 2025 | [GitHub](https://github.com/WYuan1001/AdaVD) |
 | [STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models](https://arxiv.org/abs/2408.16807) | 2025 | CVPR 2025 | [GitHub](https://github.com/koushiksrivats/robust-concept-erasing) |
 | [Erasing Undesirable Influence in Diffusion Models](https://arxiv.org/abs/2401.05779) | 2025 | CVPR 2025 | [GitHub](https://github.com/JingWu321/EraseDiff) |
 | [Fantastic Targets for Concept Erasure in Diffusion Models and Where To Find Them](https://arxiv.org/abs/2501.18950) | 2025 | ICLR 2025 | [GitHub](https://github.com/tuananhbui89/Adaptive-Guided-Erasure) |
-| [SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders](https://arxiv.org/abs/2501.18052) | 2025 | arXiv | [GitHub](https://github.com/cywinski/SAeUron) |
 | [Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation](https://arxiv.org/abs/2410.15618) | 2024 | NeurIPS 2024 | [GitHub](https://github.com/tuananhbui89/Erasing-Adversarial-Preservation) |
 | [Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models](https://arxiv.org/abs/2407.12383) | 2024 | ECCV 2024 | [GitHub](https://github.com/CharlesGong12/RECE) |
 | [R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model](https://arxiv.org/abs/2405.16341) | 2024 | ECCV 2024 | [GitHub](https://github.com/chkimmmmm/R.A.C.E.) |
