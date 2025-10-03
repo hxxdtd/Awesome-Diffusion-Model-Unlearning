@@ -17,6 +17,9 @@ A collection of academic articles, resources, and datasets on the subject of **m
 
 | Paper                                                        | Year | Venue     | Code                                                         |
 | :----------------------------------------------------------: | :--: | :-------: | :----------------------------------------------------------: |
+| [SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders](https://openreview.net/forum?id=6N0GxaKdX9) | 2025 | ICML 2025 | [Github](https://github.com/cywinski/SAeUron) |
+| [Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models](https://openreview.net/forum?id=gjwhDHeAsz) | 2025 | ICLR 2025 | [Github](https://github.com/tqch/score-forgetting-distillation) |
+| [Fantastic Targets for Concept Erasure in Diffusion Models and Where To Find Them](https://arxiv.org/abs/2501.18950) | 2025 | ICLR 2025 | [Github](https://github.com/tuananhbui89/Adaptive-Guided-Erasure) |
 | [Minimalist Concept Erasure in Generative Models](https://openreview.net/pdf?id=oBCw6PZ0fX) | 2025 | ICML 2025 |  |
 | [EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers](https://arxiv.org/abs/2412.20413) | 2025 | ICML 2025 | [GitHub](https://github.com/tomguluson92/EraseAnything) |
 | [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework](https://arxiv.org/abs/2505.11131) | 2025 | ICML 2025 | [GitHub](https://github.com/Ferry-Li/Co-Erasing) |
@@ -55,6 +58,7 @@ A collection of academic articles, resources, and datasets on the subject of **m
 
 |                            Paper                             | Year |   Venue    |                             Code                             |            Type            |
 | :----------------------------------------------------------: | :--: | :--------: | :----------------------------------------------------------: | :------------------------: |
+| [The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) | 2025 | CVPR 2025 | [Github](https://github.com/NGK2110/TIU) |
 | [Memories of Forgotten Concepts](https://arxiv.org/abs/2412.00782) | 2025 | CVPR 2025  | [GitHub](https://github.com/matanr/Memories_of_Forgotten_Concepts) |  white-box, latent-level   |
 | [DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization](https://arxiv.org/abs/2408.11071) | 2025 | NAACL 2025 |     [GitHub](https://github.com/CherryBlueberry/DiffZOO)     |  black-box, prompt-level   |
 | [Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective](https://arxiv.org/abs/2404.19382) | 2024 |   arXiv    |           [GitHub](https://github.com/hxxdtd/PUND)           | gray-box, embedding-level  |
@@ -68,3 +72,4 @@ A collection of academic articles, resources, and datasets on the subject of **m
 | :----------------------------------------------------------: | :--: | :----------: | :----------------------------------------------------: |
 | [Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models](https://arxiv.org/abs/2406.14855) | 2025 |  CVPR 2025   |     [GitHub](https://github.com/Artanisax/Six-CD)      |
 | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846) | 2024 | NeurIPS 2024 | [GitHub](https://github.com/OPTML-Group/UnlearnCanvas) |
+
